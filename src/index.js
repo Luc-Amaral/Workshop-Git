@@ -7,7 +7,8 @@ function App() {
   return (
     <div className="App">
       <h1>1º Fase Concluída</h1>
-      <Confetti />
+      <h2>Meu senior é toxico</h2>
+      <Confetti/>
     </div>
   );
 }
